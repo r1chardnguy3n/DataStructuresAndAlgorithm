@@ -13,6 +13,11 @@ namespace DataStructures_Algorithm
          * Degrades quickly
          */
 
+        public static void Main(string[] args)
+        {
+
+        }
+
         //Implementation
         public static void BubbleSortImplementation(int[] array)
         {
