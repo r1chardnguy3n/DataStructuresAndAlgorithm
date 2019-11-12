@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresAlgorithm", "DataStructuresAlgorithm\DataStructuresAlgorithm.csproj", "{B7021C84-31B5-45D6-ACBD-A8D9319A91A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms-DataStruct-Lib.Tests", "Algorithms-DataStruct-Lib.Tests\Algorithms-DataStruct-Lib.Tests.csproj", "{24448AD8-6B99-4589-B914-3B4289BD9365}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructures-Algorithm", "DataStructures-Algorithm\DataStructures-Algorithm.csproj", "{5FE3F475-B830-4D59-B8BC-F0D5600682B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B7021C84-31B5-45D6-ACBD-A8D9319A91A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7021C84-31B5-45D6-ACBD-A8D9319A91A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7021C84-31B5-45D6-ACBD-A8D9319A91A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7021C84-31B5-45D6-ACBD-A8D9319A91A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24448AD8-6B99-4589-B914-3B4289BD9365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24448AD8-6B99-4589-B914-3B4289BD9365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24448AD8-6B99-4589-B914-3B4289BD9365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24448AD8-6B99-4589-B914-3B4289BD9365}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FE3F475-B830-4D59-B8BC-F0D5600682B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE3F475-B830-4D59-B8BC-F0D5600682B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE3F475-B830-4D59-B8BC-F0D5600682B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE3F475-B830-4D59-B8BC-F0D5600682B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
